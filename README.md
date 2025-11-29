@@ -5,6 +5,7 @@
 - Los datos de entrada están comprimidos en el archivo `SostenibilidadEmpresarial.zip` y descomprimidos en `SostenibilidadEmpresarial/`.
 - En `output/` están los archivos obtenidos como resultado de la prueba.
 - `Prueba_técnica.ipynb` es el notebook con el código del ETL y con los comentarios y justificaciones sobre los pasos realizados y las decisiones tomadas en el desarrollo del mismo.
+- Los layouts de ambas tablas de salida `Layout Impacto Ambiental Empresas.pdf` y `Layout Beneficios Proyectos Energéticos.pdf` en formato PDF para mejor compatibilidad.
 
 ## Instrucciones
 
